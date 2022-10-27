@@ -1,4 +1,3 @@
-from mailbox import Mailbox
 from tkinter import *
 
 def leftClickButton(event):
